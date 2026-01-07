@@ -11,7 +11,7 @@
   },
   "tagline": "Some hostels are a bargain. Others cost you your life.",
   "synopsis": {
-    "short": "",
+    "short": "An art history student admiring a massive vintage wall decoration is crushed when the improperly mounted piece falls from the crumbling hostel wall.",
     "long": ""
   },
   "death_type": "Wall Decoration",
@@ -29,5 +29,6 @@
     "google_play": "",
     "audible": "",
     "kobo": ""
-  }
+  },
+  "death_teaser": "Some art really kills."
 }
